@@ -35,3 +35,6 @@ This project involves creating a Python-based task scheduler similar to the Unix
 2. Check the status of tasks:
    ```bash
    python3 runstatus.py
+
+## Acknowledgments
+This project was developed as part of the INFO1112 course at the University of Sydney. Special thanks to the course instructors and tutors for their guidance and support.
